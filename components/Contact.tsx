@@ -47,7 +47,7 @@ export const Contact: React.FC<ContactProps> = ({ isDark = true }) => {
 
         {/* GITHUB CARD */}
         <a 
-          href="https://github.com/HeselAlvinPriyanto"
+          href="https://www.linkedin.com/in/heselalvinpriyanto?utm_source=share_via&utm_content=profile&utm_medium=member_android"
           target="_blank"
           rel="noopener noreferrer"
           className={`group p-6 rounded-2xl border transition-all duration-300 flex items-center gap-4 ${
